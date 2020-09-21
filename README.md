@@ -1,5 +1,5 @@
 # transvoice.party
 
-github is the best way to host websites for free lol
+NOW UNUSED, site now refers to a wiki which includes resource list from this site
 
 https://transvoice.party
